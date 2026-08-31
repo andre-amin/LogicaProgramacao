@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="beeCrowd1067/beeCrowd1067.csproj" />
   <Project Path="beeCrowd1071/beeCrowd1071.csproj" />
+  <Project Path="beeCrowd1072/beeCrowd1072.csproj" Id="f385a7d0-e196-4a8a-8b95-f025c958f336" />
+  <Project Path="beeCrowd1073/beeCrowd1073.csproj" Id="4a3074bf-e785-470d-a42f-cd7118fe7a5e" />
 </Solution>
