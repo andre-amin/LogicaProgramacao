@@ -3,4 +3,7 @@
   <Project Path="beeCrowd1071/beeCrowd1071.csproj" />
   <Project Path="beeCrowd1072/beeCrowd1072.csproj" Id="f385a7d0-e196-4a8a-8b95-f025c958f336" />
   <Project Path="beeCrowd1073/beeCrowd1073.csproj" Id="4a3074bf-e785-470d-a42f-cd7118fe7a5e" />
+  <Project Path="beeCrowd1074/beeCrowd1074.csproj" Id="d921b76b-71ec-45f6-a385-8f3eff93f419" />
+  <Project Path="beeCrowd1075/beeCrowd1075.csproj" Id="eb88cea9-1d3e-4ea5-8671-16e73dbc8208" />
+  <Project Path="beeCrowd1079/beeCrowd1079.csproj" Id="60484be0-7342-4755-af6d-3c07aef82019" />
 </Solution>
