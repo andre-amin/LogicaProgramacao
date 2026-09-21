@@ -7,5 +7,8 @@
   <Project Path="beeCrowd1075/beeCrowd1075.csproj" Id="eb88cea9-1d3e-4ea5-8671-16e73dbc8208" />
   <Project Path="beeCrowd1079/beeCrowd1079.csproj" Id="60484be0-7342-4755-af6d-3c07aef82019" />
   <Project Path="beeCrowd1080/beeCrowd1080.csproj" Id="463e77ea-4c8e-4c0a-a772-7d6349208b0c" />
-  <Project Path="beeCrowd1094/beeCrowd1094.csproj" Id="5de8c4f4-f8a7-4773-bf6b-69c46dbec022" />
+  <Project Path="beeCrowd1094/vetorEx01.csproj" Id="5de8c4f4-f8a7-4773-bf6b-69c46dbec022" />
+  <Project Path="vetorEx02/vetorEx02.csproj" Id="648e980c-4f2f-4af1-b4f7-3fb07f4fcd5c" />
+  <Project Path="vetorEx03/vetorEx03.csproj" Id="10a1f3c5-1da4-4a87-bbfc-1cf529c359c3" />
+  <Project Path="vetorEx04/vetorEx04.csproj" Id="60e2f445-ec8c-4dd7-b580-7296892eddfb" />
 </Solution>
