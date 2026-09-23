@@ -12,4 +12,7 @@
   <Project Path="vetorEx03/vetorEx03.csproj" Id="10a1f3c5-1da4-4a87-bbfc-1cf529c359c3" />
   <Project Path="vetorEx04/vetorEx04.csproj" Id="60e2f445-ec8c-4dd7-b580-7296892eddfb" />
   <Project Path="vetorEx05/vetorEx05.csproj" Id="3fd0229d-7bdf-48ce-8630-748b924d0629" />
+  <Project Path="vetorEx06/vetorEx06.csproj" Id="fcf61591-dc5e-4537-8931-f47443c09a62" />
+  <Project Path="vetorEx07/vetorEx07.csproj" Id="322331dc-f5da-40b5-a6f4-1a2aac89ec68" />
+  <Project Path="vetorEx08/vetorEx08.csproj" Id="9b4acda0-2b6f-4567-8f11-b411709844e6" />
 </Solution>
