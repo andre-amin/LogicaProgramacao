@@ -8,6 +8,11 @@
   <Project Path="beeCrowd1079/beeCrowd1079.csproj" Id="60484be0-7342-4755-af6d-3c07aef82019" />
   <Project Path="beeCrowd1080/beeCrowd1080.csproj" Id="463e77ea-4c8e-4c0a-a772-7d6349208b0c" />
   <Project Path="beeCrowd1094/vetorEx01.csproj" Id="5de8c4f4-f8a7-4773-bf6b-69c46dbec022" />
+  <Project Path="matrizEx01/matrizEx01.csproj" Id="c8f6453f-19c1-4241-9251-f6b78965fb83" />
+  <Project Path="matrizEx02/matrizEx02.csproj" Id="e691405f-d366-46c7-b5c1-0df73419e5de" />
+  <Project Path="matrizEx03/matrizEx03.csproj" Id="49585d4e-9680-4e96-9cf8-24e526265cf1" />
+  <Project Path="matrizEx04/matrizEx04.csproj" Id="17ade91b-31fb-40a1-baaa-e20c47a1abb1" />
+  <Project Path="matrizEx05/matrizEx05.csproj" Id="e5cb82b8-97fa-4bef-850c-2bc2573c40ca" />
   <Project Path="vetorEx02/vetorEx02.csproj" Id="648e980c-4f2f-4af1-b4f7-3fb07f4fcd5c" />
   <Project Path="vetorEx03/vetorEx03.csproj" Id="10a1f3c5-1da4-4a87-bbfc-1cf529c359c3" />
   <Project Path="vetorEx04/vetorEx04.csproj" Id="60e2f445-ec8c-4dd7-b580-7296892eddfb" />
